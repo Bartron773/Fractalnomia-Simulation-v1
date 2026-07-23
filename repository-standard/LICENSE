@@ -1,0 +1,57 @@
+BARTRON773 SOURCE-VISIBLE LICENSE
+Version 1.0 — July 2026
+
+Copyright © 2026 Bart Salazar. All rights reserved.
+
+1. PURPOSE
+
+This repository is made publicly accessible for viewing, demonstration, portfolio, educational reference, discussion, and evaluation. Public availability does not place the Work in the public domain and does not make it open source.
+
+2. DEFINITIONS
+
+“Work” means the contents of this repository, including source code, compiled code, documentation, written concepts, prompts, datasets, schemas, visual systems, interfaces, layouts, graphics, photographs, video, audio, names, fictional or product concepts, and other creative or technical materials, except where a file clearly states otherwise.
+
+“Author” means Bart Salazar and, where expressly identified, Simple Minds Studios.
+
+3. LIMITED PERMISSION TO VIEW
+
+You may access, display, and privately evaluate the Work through GitHub and any authorized project demonstration solely for personal, non-commercial review.
+
+No other permission or license is granted, whether expressly, by implication, estoppel, or otherwise.
+
+4. PROHIBITED USES
+
+Without prior written permission from the Author, you may not:
+
+- copy, download in bulk, reproduce, republish, redistribute, sublicense, sell, rent, or commercially exploit the Work;
+- modify, adapt, translate, remix, reverse engineer, decompile, create derivative works from, or incorporate substantial portions of the Work into another project;
+- remove or alter copyright, attribution, provenance, watermark, authorship, or rights notices;
+- use the Work, or substantial portions or distinctive elements of it, to train, fine-tune, benchmark, evaluate, seed, or supply a machine-learning or generative-AI system, dataset, model, retrieval system, or synthetic-media pipeline;
+- use project names, collection names, logos, trade dress, visual identity, or confusingly similar branding in a manner suggesting sponsorship, endorsement, affiliation, or origin;
+- represent the Work, its concepts, or its outputs as your own.
+
+5. LIMITED QUOTATION AND LINKING
+
+Nothing in this License is intended to restrict rights that cannot lawfully be restricted, including applicable fair use or other statutory exceptions. When legally permitted quotation or commentary is made, reasonable attribution and a link to the original repository are requested.
+
+6. THIRD-PARTY MATERIALS
+
+Third-party libraries, assets, fonts, media, trademarks, and other materials remain subject to their respective licenses and terms. Their inclusion does not expand the permissions granted under this License.
+
+7. CONTRIBUTIONS
+
+No contribution right is implied. Unless a separate written contribution agreement states otherwise, submitted contributions may be declined, and acceptance does not transfer ownership of the Author’s pre-existing materials.
+
+8. NO WARRANTY
+
+THE WORK IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, ACCURACY, OR NON-INFRINGEMENT. THE AUTHOR IS NOT LIABLE FOR ANY CLAIM, LOSS, OR DAMAGES ARISING FROM ACCESS TO OR USE OF THE WORK.
+
+9. ENFORCEMENT AND TERMINATION
+
+Any permission granted by this License terminates automatically upon violation. The Author reserves all rights and remedies available under applicable law.
+
+10. PERMISSION REQUESTS
+
+For licensing, collaboration, publication, commercial use, or other permissions, contact the Author through the official Simple Minds Studios website or the GitHub account associated with this repository.
+
+This is a custom source-visible license and is not an OSI-approved open-source license.
